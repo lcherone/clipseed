@@ -1,2 +1,1 @@
 # clipseed
-Created with CodeSandbox
